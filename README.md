@@ -1,4 +1,5 @@
 # GIPHY-API-Search
+
 User Stories
 1. "As a student studying web development, I would like an API search engine to allow me quickly locate and find GIF's."
 - John
