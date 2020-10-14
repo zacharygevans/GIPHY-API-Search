@@ -4,7 +4,8 @@ Overview
 The following is a web application to allow user to search a collection of GIF images from a GIPHY API search engine.
 
 Wireframes:
-
+![Desktop View](documents/DesktopView "Desktop View")
+![Mobile View](documents/MobileView "Mobile View")
 
 Directions:
 In order to use the functionalities offered, simply type in whatever you would like to see a GIF image of and clicked the blue magnifying glass.
