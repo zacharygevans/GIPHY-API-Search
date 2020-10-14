@@ -3,13 +3,14 @@
     margin: 0 auto; 
 }
 header{
-    font-family: 'Sansita Swashed' cursive;
+    font-family: 'Sansita Swashed' Cursive;
     color: #1e212b;
     font-weight: 300;
     font-size: 28px;
     text-align: center;
     background-color: #ff8427  
 }
+
 nav ul{
     color: #1e212b;
     float:right;
@@ -23,7 +24,9 @@ nav li{
     align-items: center;
     margin-left: 50px;
 }
-
+h1{
+    font-family: 'Sansita Swashed' Cursive;
+}
 body{
     display: block;
     margin-left: auto;
