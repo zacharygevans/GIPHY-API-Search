@@ -4,10 +4,9 @@ Overview
 The following is a web application to allow user to search a collection of GIF images from a GIPHY API search engine.
 
 Wireframes:
-![Desktop View](images/desktopview.png/ "Desktop View")
+
 <img src="documents/desktopview.PNG/" class="img-responsive" alt="Desktop View"> </div>
 
-![Mobile View](images/mobileview.png/ "Mobile View")
 <img src="documents/mobileview.PNG/" class="img-responsive" alt="Mobile View"> </div>
 
 Directions:
